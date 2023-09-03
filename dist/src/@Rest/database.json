@@ -1,3 +1,28 @@
 {
-  "queue": {}
+  "undefined": {
+    "queue": {
+      "1078941688480935996": [
+        {
+          "encoded": "QAABJgMAHjcgLSBEcmFtYSAoUFJPRCBCWSBEYSBNb0phTmFEKQAPQmlHU2FNIE9mZmljaWFsAAAAAAACWZAAC0ZKTmM1TlMxVHpZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RkpOYzVOUzFUelkBAJtodHRwczovL2kueXRpbWcuY29tL3ZpL0ZKTmM1TlMxVHpZL21heHJlc2RlZmF1bHQuanBnP3NxcD0tb2F5bXdFbUNJQUtFTkFGOHF1S3FRTWE4QUVCLUFILUNZQUMwQVdLQWd3SUFCQUJHQkFnWlNoV01BOD0mcnM9QU9uNENMQk1wN3ZVMmUtcGZJSXpidHpfT0JUWnZuSjBmUQAAB3lvdXR1YmUAAAAAAAAAAA==",
+          "identifier": "FJNc5NS1TzY",
+          "title": "7 - Drama (PROD BY Da MoJaNaD)",
+          "author": "BiGSaM Official",
+          "url": "https://www.youtube.com/watch?v=FJNc5NS1TzY",
+          "duration": 154000,
+          "position": 0,
+          "isSeekable": true,
+          "isStream": false,
+          "sourceName": "youtube",
+          "requester": null,
+          "artworkUrl": "https://i.ytimg.com/vi/FJNc5NS1TzY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBAgZShWMA8=&rs=AOn4CLBMp7vU2e-pfIIzbtz_OBTZvnJ0fQ",
+          "isrc": null
+        }
+      ]
+    }
+  },
+  "1134926217028571247": {
+    "queue": {
+      "1078941688480935996": []
+    }
+  }
 }

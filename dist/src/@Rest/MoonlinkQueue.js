@@ -10,8 +10,10 @@ class MoonlinkQueue {
         this.db = new MoonlinkDatabase_1.MoonlinkDatabase();
         this.guildId = data.guildId;
         this.manager = manager;
-        this.botId = this.manager.botId;
+        this.botId = this.manager.options.botId;
+        console.log(this.botId);
     }
+    
     add(data, position) {
         if (!data)
             throw new Error('[ @Moonlink/Queue ]: "data" option is empty');

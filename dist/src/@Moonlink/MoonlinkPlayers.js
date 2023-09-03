@@ -25,7 +25,7 @@ class MoonlinkPlayer {
     constructor(infos, manager, map) {
         this.payload = manager._sPayload;
         this.guildId = infos.guildId;
-        this.botId = manager.botId;
+        this.botId = manager.options.botId;
         this.textChannel = infos.textChannel;
         this.voiceChannel = infos.voiceChannel;
         this.autoPlay = infos.autoPlay;
